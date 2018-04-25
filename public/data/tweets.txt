@@ -1,0 +1,703 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sun Mar 11 15:06:38 +0000 2018",
+      "id": 972851295861248000,
+      "id_str": "972851295861248000",
+      "text": "@biaasarfraz @RapunzelMaryam @MaryamIrfan666 @MaheeenBaig @Saif__Says @Sumeera222 @BushraMuqdas @ItsBushrahere… https://t.co/ooJbO2aa9d",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "biaasarfraz",
+            "name": "Bia Sarfraz",
+            "id": 708265001686007800,
+            "id_str": "708265001686007808",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "RapunzelMaryam",
+            "name": "Maryam?Aslam??Rapunzel??",
+            "id": 874717894604726300,
+            "id_str": "874717894604726273",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "MaryamIrfan666",
+            "name": "MaryamIrfan (Janbaaz) ??IUH??WB?? karachikings ??",
+            "id": 839156357421023200,
+            "id_str": "839156357421023234",
+            "indices": [
+              29,
+              44
+            ]
+          },
+          {
+            "screen_name": "MaheeenBaig",
+            "name": "maheen Baig janbaaz ?",
+            "id": 710579662133567500,
+            "id_str": "710579662133567488",
+            "indices": [
+              45,
+              57
+            ]
+          },
+          {
+            "screen_name": "Saif__Says",
+            "name": "SSR_TeamInsaaf",
+            "id": 881877371913097200,
+            "id_str": "881877371913097216",
+            "indices": [
+              58,
+              69
+            ]
+          },
+          {
+            "screen_name": "Sumeera222",
+            "name": "?Sumeera?",
+            "id": 921376705377374200,
+            "id_str": "921376705377374208",
+            "indices": [
+              70,
+              81
+            ]
+          },
+          {
+            "screen_name": "BushraMuqdas",
+            "name": "Bushra Muqdas janbaz",
+            "id": 905355367739220000,
+            "id_str": "905355367739219968",
+            "indices": [
+              82,
+              95
+            ]
+          },
+          {
+            "screen_name": "ItsBushrahere",
+            "name": "Bushra Sarwar (Bushi)??",
+            "id": 3986308341,
+            "id_str": "3986308341",
+            "indices": [
+              96,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ooJbO2aa9d",
+            "expanded_url": "https://twitter.com/i/web/status/972851295861248000",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 972850087461359600,
+      "in_reply_to_status_id_str": "972850087461359616",
+      "in_reply_to_user_id": 708265001686007800,
+      "in_reply_to_user_id_str": "708265001686007808",
+      "in_reply_to_screen_name": "biaasarfraz",
+      "user": {
+        "id": 918039786635628500,
+        "id_str": "918039786635628544",
+        "name": "Hamna(Iqrarian+Ihtishamian)",
+        "screen_name": "hamnaaslam333",
+        "location": "Punjab, Pakistan",
+        "description": "??????????????? ???? ???? ???? ????? ?? _ ????",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 630,
+        "friends_count": 88,
+        "listed_count": 0,
+        "created_at": "Wed Oct 11 09:05:16 +0000 2017",
+        "favourites_count": 17879,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8403,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972526678902788096/R_vgIm_s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972526678902788096/R_vgIm_s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918039786635628544/1507713840",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Mar 11 15:06:18 +0000 2018",
+      "id": 972851212595925000,
+      "id_str": "972851212595924993",
+      "text": "@Sumeera222 @RapunzelMaryam @MaryamIrfan666 @MaheeenBaig @Saif__Says @biaasarfraz @BushraMuqdas @ItsBushrahere… https://t.co/t6zxohsEDc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sumeera222",
+            "name": "?Sumeera?",
+            "id": 921376705377374200,
+            "id_str": "921376705377374208",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "RapunzelMaryam",
+            "name": "Maryam?Aslam??Rapunzel??",
+            "id": 874717894604726300,
+            "id_str": "874717894604726273",
+            "indices": [
+              12,
+              27
+            ]
+          },
+          {
+            "screen_name": "MaryamIrfan666",
+            "name": "MaryamIrfan (Janbaaz) ??IUH??WB?? karachikings ??",
+            "id": 839156357421023200,
+            "id_str": "839156357421023234",
+            "indices": [
+              28,
+              43
+            ]
+          },
+          {
+            "screen_name": "MaheeenBaig",
+            "name": "maheen Baig janbaaz ?",
+            "id": 710579662133567500,
+            "id_str": "710579662133567488",
+            "indices": [
+              44,
+              56
+            ]
+          },
+          {
+            "screen_name": "Saif__Says",
+            "name": "SSR_TeamInsaaf",
+            "id": 881877371913097200,
+            "id_str": "881877371913097216",
+            "indices": [
+              57,
+              68
+            ]
+          },
+          {
+            "screen_name": "biaasarfraz",
+            "name": "Bia Sarfraz",
+            "id": 708265001686007800,
+            "id_str": "708265001686007808",
+            "indices": [
+              69,
+              81
+            ]
+          },
+          {
+            "screen_name": "BushraMuqdas",
+            "name": "Bushra Muqdas janbaz",
+            "id": 905355367739220000,
+            "id_str": "905355367739219968",
+            "indices": [
+              82,
+              95
+            ]
+          },
+          {
+            "screen_name": "ItsBushrahere",
+            "name": "Bushra Sarwar (Bushi)??",
+            "id": 3986308341,
+            "id_str": "3986308341",
+            "indices": [
+              96,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t6zxohsEDc",
+            "expanded_url": "https://twitter.com/i/web/status/972851212595924993",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 972850036945145900,
+      "in_reply_to_status_id_str": "972850036945145857",
+      "in_reply_to_user_id": 921376705377374200,
+      "in_reply_to_user_id_str": "921376705377374208",
+      "in_reply_to_screen_name": "Sumeera222",
+      "user": {
+        "id": 918039786635628500,
+        "id_str": "918039786635628544",
+        "name": "Hamna(Iqrarian+Ihtishamian)",
+        "screen_name": "hamnaaslam333",
+        "location": "Punjab, Pakistan",
+        "description": "??????????????? ???? ???? ???? ????? ?? _ ????",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 630,
+        "friends_count": 88,
+        "listed_count": 0,
+        "created_at": "Wed Oct 11 09:05:16 +0000 2017",
+        "favourites_count": 17879,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8403,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972526678902788096/R_vgIm_s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972526678902788096/R_vgIm_s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918039786635628544/1507713840",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Mar 11 15:05:45 +0000 2018",
+      "id": 972851072585826300,
+      "id_str": "972851072585826305",
+      "text": "@ShaheenaAzhar @WaseemBadami @iqrarulhassan @Aroosa333 @Sadaf_janbaaz6 @ItsBushrahere @Sumeera222 @Mehtab11279509… https://t.co/VwBCqqu2Ei",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ShaheenaAzhar",
+            "name": "*Shaheena Azhar*",
+            "id": 900322629919363100,
+            "id_str": "900322629919363074",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "WaseemBadami",
+            "name": "Waseem Badami",
+            "id": 903495284,
+            "id_str": "903495284",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "iqrarulhassan",
+            "name": "Iqrar ul Hassan Syed",
+            "id": 102355805,
+            "id_str": "102355805",
+            "indices": [
+              29,
+              43
+            ]
+          },
+          {
+            "screen_name": "Aroosa333",
+            "name": "Aroosa (JANBAAZ)",
+            "id": 911913631813718000,
+            "id_str": "911913631813718016",
+            "indices": [
+              44,
+              54
+            ]
+          },
+          {
+            "screen_name": "Sadaf_janbaaz6",
+            "name": "SADAF_ZAHEER?? (janbaaz)",
+            "id": 916018615358455800,
+            "id_str": "916018615358455808",
+            "indices": [
+              55,
+              70
+            ]
+          },
+          {
+            "screen_name": "ItsBushrahere",
+            "name": "Bushra Sarwar (Bushi)??",
+            "id": 3986308341,
+            "id_str": "3986308341",
+            "indices": [
+              71,
+              85
+            ]
+          },
+          {
+            "screen_name": "Sumeera222",
+            "name": "?Sumeera?",
+            "id": 921376705377374200,
+            "id_str": "921376705377374208",
+            "indices": [
+              86,
+              97
+            ]
+          },
+          {
+            "screen_name": "Mehtab11279509",
+            "name": "Attiqa Mehtab Janbaz ?crazy for iqrar?",
+            "id": 897742322418561000,
+            "id_str": "897742322418561024",
+            "indices": [
+              98,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VwBCqqu2Ei",
+            "expanded_url": "https://twitter.com/i/web/status/972851072585826305",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": 972828772339798000,
+      "in_reply_to_status_id_str": "972828772339798016",
+      "in_reply_to_user_id": 900322629919363100,
+      "in_reply_to_user_id_str": "900322629919363074",
+      "in_reply_to_screen_name": "ShaheenaAzhar",
+      "user": {
+        "id": 876598219383373800,
+        "id_str": "876598219383373826",
+        "name": "Nazneen Rajput Janbaaz",
+        "screen_name": "SowaibaNazneen",
+        "location": "Karachi,Pakistan",
+        "description": "??? ??? ??? ?? ???? ??? ???? ???? ?? ??? ?? ???\n??? ??? ??? ?? ???? ??? ???? ???? ?? ??? ?? ???\n(????? ??????)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 848,
+        "friends_count": 74,
+        "listed_count": 1,
+        "created_at": "Mon Jun 19 00:31:16 +0000 2017",
+        "favourites_count": 52870,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22530,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960821978449006592/9N9z9ycQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960821978449006592/9N9z9ycQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876598219383373826/1506014418",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Mar 11 15:05:03 +0000 2018",
+      "id": 972850897331028000,
+      "id_str": "972850897331027968",
+      "text": "@atiqabhatti1 @MaryamIrfan666 @MaheeenBaig @Saif__Says @Sumeera222 @biaasarfraz @BushraMuqdas @ItsBushrahere… https://t.co/Mj3frmGwIR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "atiqabhatti1",
+            "name": "Atiqa Bhatti( jaanbaz)????",
+            "id": 2817246842,
+            "id_str": "2817246842",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MaryamIrfan666",
+            "name": "MaryamIrfan (Janbaaz) ??IUH??WB?? karachikings ??",
+            "id": 839156357421023200,
+            "id_str": "839156357421023234",
+            "indices": [
+              14,
+              29
+            ]
+          },
+          {
+            "screen_name": "MaheeenBaig",
+            "name": "maheen Baig janbaaz ?",
+            "id": 710579662133567500,
+            "id_str": "710579662133567488",
+            "indices": [
+              30,
+              42
+            ]
+          },
+          {
+            "screen_name": "Saif__Says",
+            "name": "SSR_TeamInsaaf",
+            "id": 881877371913097200,
+            "id_str": "881877371913097216",
+            "indices": [
+              43,
+              54
+            ]
+          },
+          {
+            "screen_name": "Sumeera222",
+            "name": "?Sumeera?",
+            "id": 921376705377374200,
+            "id_str": "921376705377374208",
+            "indices": [
+              55,
+              66
+            ]
+          },
+          {
+            "screen_name": "biaasarfraz",
+            "name": "Bia Sarfraz",
+            "id": 708265001686007800,
+            "id_str": "708265001686007808",
+            "indices": [
+              67,
+              79
+            ]
+          },
+          {
+            "screen_name": "BushraMuqdas",
+            "name": "Bushra Muqdas janbaz",
+            "id": 905355367739220000,
+            "id_str": "905355367739219968",
+            "indices": [
+              80,
+              93
+            ]
+          },
+          {
+            "screen_name": "ItsBushrahere",
+            "name": "Bushra Sarwar (Bushi)??",
+            "id": 3986308341,
+            "id_str": "3986308341",
+            "indices": [
+              94,
+              108
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Mj3frmGwIR",
+            "expanded_url": "https://twitter.com/i/web/status/972850897331027968",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 972849665539477500,
+      "in_reply_to_status_id_str": "972849665539477506",
+      "in_reply_to_user_id": 2817246842,
+      "in_reply_to_user_id_str": "2817246842",
+      "in_reply_to_screen_name": "atiqabhatti1",
+      "user": {
+        "id": 874717894604726300,
+        "id_str": "874717894604726273",
+        "name": "Maryam?Aslam??Rapunzel??",
+        "screen_name": "RapunzelMaryam",
+        "location": "Punjab, Pakistan",
+        "description": "1st talk with IUH 7 oct 2017 IUH rplied me many Times Bhai take my Name on Live session(31.12.17)1st RT from IUH(14.02.2018)\n????? ???? ???? ???? ????? ??  ????",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2196,
+        "friends_count": 88,
+        "listed_count": 0,
+        "created_at": "Tue Jun 13 19:59:32 +0000 2017",
+        "favourites_count": 12057,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12584,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972492846463946754/ly2uKwQC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972492846463946754/ly2uKwQC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874717894604726273/1520695499",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "tl"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.04,
+    "max_id": 972852265156563000,
+    "max_id_str": "972852265156562944",
+    "next_results": "?max_id=972850897331027967&q=sadaf&count=10&include_entities=1",
+    "query": "sadaf",
+    "refresh_url": "?since_id=972852265156562944&q=sadaf&include_entities=1",
+    "count": 10,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
